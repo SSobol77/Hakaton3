@@ -1,1 +1,1 @@
-# Hakaton3
+# Hakaton3 Java
